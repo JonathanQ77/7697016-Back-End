@@ -184,7 +184,20 @@
       "utilisateur": "Hugo Block",
       "commentaire": "Sint quidem quia ipsam quae.",
       "nbEtoiles": 5
+    },
+    {
+      "pieceId": 3,
+      "utilisateur": "Jonathan ",
+      "commentaire": "Très fonctionnel",
+      "nbEtoiles": "5",
+      "id": 21
+    },
+    {
+      "pieceId": 2,
+      "utilisateur": "Jade",
+      "commentaire": "super cette ampoule",
+      "nbEtoiles": 4,
+      "id": 22
     }
-
   ]
 }
