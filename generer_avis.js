@@ -4,16 +4,16 @@ const NB_AVIS = 20;
 
 const avis = [];
 let avis_id = 1;
-let piece_id = 0;
+let livre_id = 0;
 
 for (let i = 0; i < NB_AVIS; i++) {
 	avis.push({
 		id: avis_id++,
-		pieceId: (piece_id++) % 5 + 1,
+		livreId: (livre_id++) % 5 + 1,
 		utilisateur: faker.name.findName(),
 		commentaire: faker.lorem.sentence(),
 		nbEtoiles: calculer_nb_etoiles(),
-	});
+	})
 }
 
 console.log(JSON.stringify(avis, null, 2));

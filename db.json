@@ -1,186 +1,197 @@
 {
-  "pieces": [
+  "livres": [
     {
       "id": 1,
-      "nom": "Ampoule LED",
-      "prix": 60,
-      "categorie": "Optiques",
-      "image": "images/ampoule-led.png",
-      "description": "Distance d’éclairage : 100 mètres !",
-      "disponibilite": true
-    },
-    {
+      "nom": "Harry Potter et l'odre du phoenix ",
+      "nombreDePages": 992,
+      "auteur": "Rowling J.K",
+      "style": "fantastique",
+      "description": "À quinze ans, Harry s'apprête à entrer en cinquième année à Poudlard. Et s'il est heureux de retrouver le monde des sorciers, il n'a jamais été aussi anxieux. L'adolescence, la perspective des examens importants en fin d'année et ces étranges cauchemars... Car Celui-Dont-On-Ne-Doit-Pas-Prononcer-Le-Nom est de retour et, plus que jamais, Harry sent peser sur lui une terrible menace. Une menace que le ministère de la Magie ne semble pas prendre au sérieux, contrairement à Dumbledore. Poudlard devient alors le terrain d'une véritable lutte de pouvoir. La résistance s'organise autour de Harry qui va devoir compter sur le courage et la fidélité de ses amis de toujours... ",
+      "image": "imagesB/hp_t5.jpg"
+  },
+  {
       "id": 2,
-      "nom": "Plaquettes de frein (x4)",
-      "prix": 40,
-      "categorie": "Freinage",
-      "image": "images/plaquettes-frein.png",
-      "description": "Une qualité de freinage optimale, par tous les temps",
-      "disponibilite": true
-    },
-    {
+      "nom": "Hunger Games T1 ",
+      "nombreDePages": 398,
+      "auteur": "Collins Suzanne",
+      "style": "fantastique",
+      "description": "Dans un futur sombre, sur les ruines des Etats-Unis, un jeu télévisé est créé pour contrôler le peuple par la terreur. Douze garçons et douze filles tirés au sort participent à cette sinistre téléréalité, que tout le monde est forcé de regarder en direct. Une seule règle dans l'arène : survivre, à tout prix ",
+      "image": "imagesB/hungerGamesT1.jpg"
+  },
+  {
       "id": 3,
-      "nom": "Ampoule boîte à gants",
-      "prix": 5.49,
-      "categorie": "Optiques",
-      "image": "images/ampoule-boite-a-gants.png",
-      "description": "Pour y voir clair dans l’habitacle",
-      "disponibilite": false
-    },
-    {
+      "nom": "La roue du temps : l'oeil du monde  ",
+      "nombreDePages": 624,
+      "auteur": "Jordan Robert",
+      "style": "fantastique",
+      "description": "C'est la Nuit de l'Hiver dans la contrée de Deux-Rivières et, en ce soir de fête, l'excitation des villageois est à son comble. C'est alors qu'arrivent trois étrangers comme le jeune Rand et ses amis d'enfance Mat et Perrin n'en avaient jamais vu : une dame noble et fascinante nommée Moiraine, son robuste compagnon et un trouvère.De quoi leur faire oublier ce cavalier sombre et sinistre aperçu dans les bois, dont la cape ne bougeait pas en plein vent...Mais, quand une horde de monstres sanguinaires déferle et met le village à feu et à sang, la mystérieuse Moiraine devine qu'ils recherchaient quelqu'un : pour les trois amis l'heure est venue de partir. Car la Roue du Temps interdit aux jeunes gens de flâner trop longtemps sur les routes du destin... ",
+      "image": "imagesB/laroueDuTempsT1.jpg"
+  },
+  {
       "id": 4,
-      "nom": "Liquide de frein",
-      "prix": 9.6,
-      "categorie": "Freinage",
-      "image": "images/liquide-frein.png",
-      "disponibilite": true
-    },
-    {
+      "nom": "The witcher T1 : le dernier voeux  ",
+      "nombreDePages": 834,
+      "auteur": "Sapkowski Andrzej",
+      "style": "fantastique",
+      "description": "Série événement sur Netflix, succès mondial du jeu vidéo, The Witcher est une saga littéraire unique d'une richesse inouïe, qui a conquis des millions des lecteurs.Geralt de Riv, le sorceleur, mène sa mission sans faillir dans un monde hostile et corrompu, dépourvu d'espoir. Sa renommée légendaire n'a d'égales que la peur et la haine qu'il inspire chez ceux qu'il traque sans pitié.Mais sa rencontre avec la petite Ciri, l'Enfant élue, va donner un sens nouveau à l'existence de ce héros solitaire. Geralt cessera-t-il enfin de fuir pour affronter la providence et découvrir son véritable destin ?« Sapkowski tisse un sortilège complexe mêlant fantasy, récit littéraire et humour caustique... » Time Magazine« Un véritable phénomène littéraire. »  ",
+      "image": "imagesB/theWitcherT1.jpg"
+  },
+  {
       "id": 5,
-      "nom": "Balai d'essuie-glace",
-      "prix": 29.1,
-      "image": "images/balai-essuie-glace.png",
-      "description": "Performances d’essuyage au Top ! Longueur : 550 mm",
-      "disponibilite": true
-    }
+      "nom": "Le sang et la cendre T1",
+      "nombreDePages": 664,
+      "auteur": "Armentrout Jennifer L.",
+      "style": "fantastique",
+      "description": "Une pucelle... Choisie depuis sa naissance pour inaugurer une nouvelle ère de son royaume, la vie de Poppy n'a jamais vraiment été la sienne. Ses parents ont été tués quand elle était jeune et elle vit depuis recluse et surprotégée. Une vie solitaire, sans être touchée ni même regardée, sans contact avec l'extérieur et avec un seul moment à attendre : le jour de son Ascension. Un devoir...  L'avenir du royaume tout entier repose sur les épaules de Poppy, mais elle n'est pas sûre de vouloir de cette destinée. Parce qu'elle a un coeur, une âme et qu'elle préfèrerait combattre les créatures qui ont causé son malheur. Et quand Hawke, un garde d'honneur chargé de la protéger jusqu'à son Ascension, fait irruption dans sa vie, il remet en question ses croyances, jusqu'à la tentation de l'interdit.  Un royaume...  Abandonné par les dieux et craint par les mortels, un autre royaume déchu se soulève, déterminé à reprendre ce qui lui est dû par la violence et la vengeance. Et alors que la menace se rapproche, Poppy est non seulement sur le point de perdre son coeur et d'être jugée indigne par les dieux, mais aussi sa propre vie à mesure que tout ce qui constituait son univers s'écroule inexorablement.? ",
+      "image": "imagesB/Le-sang-et-la-cendreT1.jpg"
+  },
+  {
+      "id": 6,
+      "nom": "Outlander T1 : le chardon et le tartan",
+      "nombreDePages": 864,
+      "auteur": "Gabaldon Diana",
+      "style": "Littérature étrangère",
+      "description": "1945. Claire retrouve son mari pour leur lune de miel dans un village écossais. Au cours d'une balade, elle s'approche d'un menhir auquel la population locale voue un culte particulier. En posant la main sur la pierre, Claire en découvre la raison : elle se volatilise pour atterrir au beau milieu d'un champ de bataille.Le menhir l'a menée tout droit en l'an de grâce 1743, au coeur de la lutte opposant Écossais et Anglais. L'un des combattants est le sosie de son époux, mais Claire aura tôt fait de comprendre que présent et passé ne se ressemblent pas. et qu'il lui faudra faire un choix ! Le début d'une série incontournable !  ",
+      "image": "imagesB/outlanderT1.jpg"
+  }
   ],
   "avis": [
     {
       "id": 1,
-      "pieceId": 1,
+      "livreId": 1,
       "utilisateur": "Kristen Larson",
       "commentaire": "Illum natus nisi aut modi dignissimos.",
       "nbEtoiles": 4
     },
     {
       "id": 2,
-      "pieceId": 2,
+      "livreId": 2,
       "utilisateur": "Alberto Kessler",
       "commentaire": "Aut facere ullam velit odio vero aut hic.",
       "nbEtoiles": 4
     },
     {
       "id": 3,
-      "pieceId": 3,
+      "livreId": 3,
       "utilisateur": "Shane Powlowski",
       "commentaire": "Sint enim nesciunt laboriosam iusto aut.",
       "nbEtoiles": 3
     },
     {
       "id": 4,
-      "pieceId": 4,
+      "livreId": 4,
       "utilisateur": "Grace Effertz",
       "commentaire": "Et aut laborum voluptas culpa ut omnis vel.",
       "nbEtoiles": 2
     },
     {
       "id": 5,
-      "pieceId": 5,
+      "livreId": 5,
       "utilisateur": "Blanche Hane",
       "commentaire": "Totam incidunt voluptatibus optio excepturi.",
       "nbEtoiles": 3
     },
     {
       "id": 6,
-      "pieceId": 1,
+      "livreId": 1,
       "utilisateur": "Catherine Kihn",
       "commentaire": "Non laborum ex recusandae voluptatem laborum.",
       "nbEtoiles": 4
     },
     {
       "id": 7,
-      "pieceId": 2,
+      "livreId": 2,
       "utilisateur": "Jimmie Pfannerstill",
       "commentaire": "Enim aut id ab corporis aut et rem.",
       "nbEtoiles": 5
     },
     {
       "id": 8,
-      "pieceId": 3,
+      "livreId": 3,
       "utilisateur": "Ms. Lydia Grady",
       "commentaire": "Ipsum officia asperiores necessitatibus id quo laborum.",
       "nbEtoiles": 4
     },
     {
       "id": 9,
-      "pieceId": 4,
+      "livreId": 4,
       "utilisateur": "Cynthia Leuschke",
       "commentaire": "Ea dolores sed aut.",
       "nbEtoiles": 5
     },
     {
       "id": 10,
-      "pieceId": 5,
+      "livreId": 5,
       "utilisateur": "Fannie Osinski DVM",
       "commentaire": "Non sed est alias ex et omnis dolorum corrupti alias.",
       "nbEtoiles": 5
     },
     {
       "id": 11,
-      "pieceId": 1,
+      "livreId": 1,
       "utilisateur": "Melinda Bergstrom",
       "commentaire": "Voluptas deserunt odit.",
       "nbEtoiles": 5
     },
     {
       "id": 12,
-      "pieceId": 2,
+      "livreId": 2,
       "utilisateur": "Glen Bauch DVM",
       "commentaire": "Harum consequatur in ex est itaque maxime consequuntur.",
       "nbEtoiles": 4
     },
     {
       "id": 13,
-      "pieceId": 3,
+      "livreId": 3,
       "utilisateur": "Melanie Fadel",
       "commentaire": "Eos eum delectus sunt provident.",
       "nbEtoiles": 5
     },
     {
       "id": 14,
-      "pieceId": 4,
+      "livreId": 4,
       "utilisateur": "Amy Ernser",
       "commentaire": "Sit enim velit esse dolor.",
       "nbEtoiles": 1
     },
     {
       "id": 15,
-      "pieceId": 5,
+      "livreId": 5,
       "utilisateur": "Toby Russel",
       "commentaire": "Voluptate ex cum aut tenetur laborum est.",
       "nbEtoiles": 3
     },
     {
       "id": 16,
-      "pieceId": 1,
+      "livreId": 1,
       "utilisateur": "Frankie Ritchie",
       "commentaire": "Dolore et explicabo et voluptas at aut saepe.",
       "nbEtoiles": 5
     },
     {
       "id": 17,
-      "pieceId": 2,
+      "livreId": 2,
       "utilisateur": "Priscilla Sporer",
       "commentaire": "Enim quibusdam et ipsum voluptas est.",
       "nbEtoiles": 5
     },
     {
       "id": 18,
-      "pieceId": 3,
+      "livreId": 3,
       "utilisateur": "Adrian Cassin",
       "commentaire": "Corrupti consequuntur deleniti voluptas eum officiis hic.",
       "nbEtoiles": 4
     },
     {
       "id": 19,
-      "pieceId": 4,
+      "livreId": 4,
       "utilisateur": "Nicolas Lesch",
       "commentaire": "Esse numquam consequatur et sunt.",
       "nbEtoiles": 5
     },
     {
       "id": 20,
-      "pieceId": 5,
+      "livreId": 5,
       "utilisateur": "Hugo Block",
       "commentaire": "Sint quidem quia ipsam quae.",
       "nbEtoiles": 5
